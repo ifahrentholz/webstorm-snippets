@@ -6,7 +6,7 @@ Webstorm snippets is heavily oriented on Sublime Snippets & [VIM snippets](https
 
 1. Download the live_template.jar file
 2. Open Webstorm (Or any other IDEA IDE)
-3. Goto File > Import Settings and choose the live_template.jar file
+3. Goto File > Import Settings > select the live_template.jar file
 
 
 ### TODO (collaborators are welcome)
