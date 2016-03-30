@@ -10,7 +10,6 @@ Webstorm snippets is heavily oriented on Sublime Snippets & [VIM snippets](https
 
 
 ### TODO (collaborators are welcome)
-* Create snippets for: *
 - jQuery
 - requireJS
 - d3
