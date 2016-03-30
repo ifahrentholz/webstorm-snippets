@@ -17,4 +17,5 @@ Webstorm snippets is heavily oriented on Sublime Snippets & [VIM snippets](https
 - node
 - react
 - markdown
+- ~~webpack~~
 - ~~javascript~~
