@@ -1,6 +1,6 @@
 # Webstorm snippets
 
-Webstorm snippets is heavily oriented on Sublime Snippets & [https://github.com/honza/vim-snippets](VIM snippets).
+Webstorm snippets is heavily oriented on Sublime Snippets & [VIM snippets](https://github.com/honza/vim-snippets).
 
 ### Install snippets
 
