@@ -1,4 +1,4 @@
-# Webstorm snippets
+# Webstorm snippets (Live Templates)
 
 Webstorm snippets is heavily oriented on Sublime Snippets & [VIM snippets](https://github.com/honza/vim-snippets).
 
@@ -15,7 +15,7 @@ Webstorm snippets is heavily oriented on Sublime Snippets & [VIM snippets](https
 - d3
 - ~~es6~~
 - ~~node~~
-- react
+- ~~react~~
 - markdown
 - ~~webpack~~
 - ~~javascript~~
