@@ -1,6 +1,66 @@
 # Webstorm snippets (Live Templates)
 
-Webstorm snippets is heavily oriented on Sublime Snippets & [VIM snippets](https://github.com/honza/vim-snippets).
+### React ES6
+
+This is a fork of mboperator/sublime-react-es6 snippets.
+
+The main difference to the original Facebook snippets are:
+
+- Converted function declarations to the new ES6 shorthand.
+- Static class variables (defaultProps, propTypes) are declared using ES7 property intializers.
+- ES6 style exports and imports for component creating snippets.
+- Added `rrc` for Redux connected components.
+
+##### Documentation of available React snippets:
+
+```
+    cdm→  componentDidMount: fn() { ... }
+
+   cdup→  componentDidUpdate: fn(pp, ps) { ... }
+
+     cs→  import cx from 'classnames';
+
+    cwm→  componentWillMount: fn() { ... }
+
+    cwr→  componentWillReceiveProps: fn(np) { ... }
+
+    cwu→  componentWillUpdate: fn(np, ns) { ... }
+
+   cwun→  componentWillUnmount: fn() { ... }
+
+     cx→  cx({ ... })
+
+    fdn→  React.findDOMNode(...)
+
+    fup→  forceUpdate(...)
+
+    gdp→  static defaultProps = { ... } 
+
+    gis→  getInitialState: fn() { return {...} } 
+
+    ism→  isMounted()
+
+  props→  this.props.
+
+     pt→  propTypes { ... }
+
+    rcc→  component skeleton
+
+   refs→  this.refs.
+
+    ren→  render: fn() { return ... }
+
+    rrc→  redux component skeleton
+
+    scu→  shouldComponentUpdate: fn(np, ns) { ... }
+
+    sst→  this.setState({ ... })
+
+  state→  this.state.
+
+```
+
+
 
 ### Install snippets
 
@@ -9,14 +69,3 @@ Webstorm snippets is heavily oriented on Sublime Snippets & [VIM snippets](https
 3. Goto `File > Import Settings` and select the live_template.jar file
 
 
-### TODO (collaborators are welcome)
-- Add documentation / or an wiki page
-- jQuery
-- requireJS
-- d3
-- ~~es6~~
-- ~~node~~
-- ~~react~~
-- markdown
-- ~~webpack~~
-- ~~javascript~~
