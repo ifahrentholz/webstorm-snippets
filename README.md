@@ -1,4 +1,4 @@
-# Webstorm snippets (Live Templates)
+# Webstorm React Snippets (Live Templates)
 
 ### Javascript ES6
 
