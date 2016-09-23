@@ -1,5 +1,15 @@
 # Webstorm snippets (Live Templates)
 
+### Javascript ES6
+
+These are basic ES6 snippets.
+ 
+##### Documentation of available React snippets:
+ 
+```
+    imp→  import ... from '...'
+```
+
 ### React ES6
 
 This is a fork of mboperator/sublime-react-es6 snippets.
