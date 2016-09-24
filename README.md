@@ -5,10 +5,13 @@
 These are basic ES6 snippets.
  
 ##### Documentation of available React snippets:
- 
-```
-    imp→  import ... from '...'
-```
+
+| Abbreviation | Description |
+|---|---|
+| imp→ | import ... from '...' |
+| gfn→  | function* name (arg) { yield arg; } |
+| =>→ | (arg) => { ... } |
+| class→ | class name { constructor () { ...} } |
 
 ### React ES6
 
@@ -23,53 +26,30 @@ The main difference to the original Facebook snippets are:
 
 ##### Documentation of available React snippets:
 
-```
-    cdm→  componentDidMount: fn() { ... }
-
-   cdup→  componentDidUpdate: fn(pp, ps) { ... }
-
-     cs→  import cx from 'classnames';
-
-    cwm→  componentWillMount: fn() { ... }
-
-    cwr→  componentWillReceiveProps: fn(np) { ... }
-
-    cwu→  componentWillUpdate: fn(np, ns) { ... }
-
-   cwun→  componentWillUnmount: fn() { ... }
-
-     cx→  cx({ ... })
-
-    fdn→  React.findDOMNode(...)
-
-    fup→  forceUpdate(...)
-
-    gdp→  static defaultProps = { ... } 
-
-    gis→  getInitialState: fn() { return {...} } 
-
-    ism→  isMounted()
-
-  props→  this.props.
-
-     pt→  propTypes { ... }
-
-    rcc→  component skeleton
-
-   refs→  this.refs.
-
-    ren→  render: fn() { return ... }
-
-    rrc→  redux component skeleton
-
-    scu→  shouldComponentUpdate: fn(np, ns) { ... }
-
-    sst→  this.setState({ ... })
-
-  state→  this.state.
-
-```
-
+| Abbreviation | Description |
+|---|---|
+| cdm→ | componentDidMount: fn() { ... } |
+| cdup→ | componentDidUpdate: fn(pp, ps) { ... } |
+| cs→ | import cx from 'classnames'; |
+| cwm→ | componentWillMount: fn() { ... } |
+| cwr→ | componentWillReceiveProps: fn(np) { ... } |
+| cwu→ | componentWillUpdate: fn(np, ns) { ... } |
+| cwun→ | componentWillUnmount: fn() { ... } |
+| cx→ | cx({ ... }) |
+| fdn→ | React.findDOMNode(...) |
+| fup→ | forceUpdate(...) |
+| gdp→ | static defaultProps = { ... } |
+| gis→ | getInitialState: fn() { return {...} } |
+| ism→ | isMounted() |
+| props→ | this.props. |
+| pt→ | propTypes { ... } |
+| rcc→ | component skeleton |
+| refs→ | this.refs. |
+| ren→ | render: fn() { return ... } |
+| rrc→ | redux component skeleton |
+| scu→ | shouldComponentUpdate: fn(np, ns) { ... } |
+| sst→ | this.setState({ ... }) |
+| state→ | this.state. |
 
 
 ### Install snippets
