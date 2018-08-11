@@ -45,7 +45,6 @@
 |      Abbreviation | Method                                                                         |
 | ----------: | -----------------------------------------------------------------------------------  |
 |      `imr→` | `import React from 'react'`                                                         |
-|      `imr→` | `import React from 'react'`                                                         |
 |     `imrd→` | `import ReactDOM from 'react-dom'`                                                  |
 |     `imrc→` | `import React, { Component } from 'react'`                                          |
 |    `imrcp→` | `import React, { Component } from 'react' & import PropTypes from 'prop-types'`     |
