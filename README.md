@@ -1,11 +1,11 @@
-# Webstorm React Snippets (Live Templates)
+# Webstorm Snippets (Live Templates)
 
 
 ## Install snippets
 
 1. Download the `live_template.jar` file
 2. Open Webstorm (Or any other IDEA IDE)
-3. Goto `File > Import Settings` and select the live_template.jar file
+3. Goto `File > Manage IDE Settings > Import Settings` and select the live_template.jar file
 
 
 ## Basic Methods
